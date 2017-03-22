@@ -1,0 +1,2 @@
+This is a text file that I added, to a branch called "feature/add_file" to see
+if the branch becomes "origin/feature/add_file" after pushing to master
